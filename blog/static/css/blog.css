@@ -1,0 +1,13 @@
+html {
+    background: #f6ff3e;
+}
+
+h1 a, h2 a {
+    color: #473eff;
+    font-family: 'Lobster';
+}
+
+h1, h2 {
+    color: #473eff;
+    font-family: 'Lobster';
+}
